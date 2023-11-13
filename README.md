@@ -1,6 +1,6 @@
 # Paste separately
 
-A simple way to paste block text one line at a time
+A simple python script to paste block text one line at a time
 
 ## Usage
 
