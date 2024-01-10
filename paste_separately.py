@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# pylint: disable=missing-module-docstring, missing-function-docstring
+"""After 3 seconds, paste lines from `file.txt` one at a time"""
+# pylint: disable=missing-function-docstring
 
 import time
 from pathlib import Path
